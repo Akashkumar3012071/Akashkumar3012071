@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Kumar
 - 👀 I’m interested in learning coding and computational techniques to use it in physics.
-- 🌱 I’m currently learning in Department of Physics at IIT Kharagpur
+- 🌱 I am a third year undergraduate of the Department of Physics, IIT Kharagpur enrolled in its Integrated M.Sc. Course.
 - 📫 How to reach me - akashkumar@kgpian.iitkgp.ac.in
 
 <!---
